@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi! 👋 I'm Melvin Teo (He/Him/His) and a UBC Sciences Student
 
-<!--
-**meleongg/meleongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Thank you for taking the time out of your busy day to visit my GitHub! If you have any inquiries, please feel free to send an email to [mthteo@gmail.com](mailto:mthteo@gmail.com) or message me on my [LinkedIn](https://www.linkedin.com/in/melvinhteo/)!
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on:
+### nwPlus Hackathons Discord Bot -> [Take a Look](https://github.com/nwplus/nwPlus_discord_bot)👀
+Working with [@nwPlus](https://github.com/nwplus) to launch this project into open source and help other hackathons run virtually via Discord.
+It was very successful at both [HackCamp](https://hackcamp.nwplus.io/) and [nwHacks 2021](https://www.nwhacks.io/), but there is still much to improve!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![alt text](https://img.shields.io/github/last-commit/nwPlus/Factotum?style=plastic)
+## 🌱 I’m currently learning:
+- JS
+
+## ⚡ Fun facts:
+- I play volleyball 🏐 
+- I've biked the Vancouver Seawall 8 times 🚲
