@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Melvin Teo (He/Him/His) and a UBC Sciences Student
+# Hi! 👋 I'm Melvin Teo (He/Him/His) and a UBC BSc Student
 
 > Thank you for taking the time out of your busy day to visit my GitHub! If you have any inquiries, please feel free to send an email to [mthteo@gmail.com](mailto:mthteo@gmail.com) or message me on my [LinkedIn](https://www.linkedin.com/in/melvinhteo/)!
 
@@ -14,3 +14,4 @@ It was very successful at both [HackCamp](https://hackcamp.nwplus.io/) and [nwHa
 ## ⚡ Fun facts:
 - I play volleyball 🏐 
 - I've biked the Vancouver Seawall 8 times 🚲
+- I love learning world languages too 🇫🇷 🇨🇳
