@@ -9,7 +9,8 @@ It was very successful at both [HackCamp](https://hackcamp.nwplus.io/) and [nwHa
 
 ![alt text](https://img.shields.io/github/last-commit/nwPlus/Factotum?style=plastic)
 ## 🌱 I’m currently learning:
-- JS
+- React
+- JavaScript
 
 ## ⚡ Fun facts:
 - I play volleyball 🏐 
