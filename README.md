@@ -9,7 +9,7 @@ Polishing my HTML, CSS, and JS fundamentals while exploring the ins and outs of 
 ![alt text](https://img.shields.io/github/last-commit/meleongg/finnit?style=plastic)
 
 ### nwPlus Aurora Design System -> [Take a Look](https://github.com/nwplus/Aurora)👀
-Contributing to the Aurora Design System that will house a variety of React components that will be used for nwPlus's websites.
+Contributing to the Aurora Design System that houses a variety of React components used for [nwPlus's](https://github.com/nwplus) websites ([nwhacks.io](https://nwhacks.io) | [hackcamp.nwplus.io](https://hackcamp.nwplus.io) | [cmd-f.nwplus.io](https://cmd-f.nwplus.io) | [nwplus.io](https://nwplus.io)).
 
 ![alt text](https://img.shields.io/github/last-commit/nwplus/Aurora?style=plastic)
 
