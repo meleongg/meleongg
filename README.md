@@ -21,3 +21,5 @@ Contributing to the Aurora Design System that houses a variety of React componen
 - I play volleyball, a lot 🏐 
 - I've biked the Vancouver Seawall 10 times 🚲
 - I learn foreign languages too in my free time 🇫🇷 🇨🇳 
+
+![Melvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=meleongg&show_icons=true&theme=github_dark)
