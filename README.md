@@ -7,7 +7,7 @@ Hi there 👋
 
 I'm Melvin, a 2nd-year Computer Science student at UBC, lifelong learner, and aspiring full-stack engineer. My mission is to craft beautiful and efficient web applications that make an impact. 
 
-Want to learn more about me? [Check out my portfolio.](https://meleongg.github.io)
+Want to learn more about me? [Check out my portfolio.](https://melvinteo.com)
 
 <br>
 
