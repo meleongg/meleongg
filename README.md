@@ -20,6 +20,11 @@
 - 📝 Check out my [Resume](https://meleongg.github.io/resume/)!
 - 📫 Reach out to me at mthteo@gmail.com
 
+## 📑 Currently learning
+- ☁️ AWS 
+- 🏠 System Design & Architecture
+- 🖥️ CS50w
+
 ## 🔭 Currently building
 ### 🏋️ [liftz](https://liftz-workout-tracker.vercel.app/) 
 liftz is a workout tracker featuring a comprehensive workout library, weight calculator, personal record tracker, and workout history calendar built using the MERN stack. 
