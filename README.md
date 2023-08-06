@@ -7,10 +7,10 @@
 
 ## 👋 Hi! I'm Melvin - a student, lifelong learner, and developer!
 
-- 🧠 I love developing creative projects that provide tangible value to my everyday problems!
+- 🧠 Passionate about productivity & time-saving tech!
 - 💻 Building cool projects with the **MERN** stack 
-- 👔 **SDE Intern @ Amazon**
-- 👀 Searching for Fall 2023 Internships
+- 👔 **2 x SDE Intern @ Amazon**
+- 👀 Searching for Fall/Winter 2023 Internships
 - 📚 Studying at the University of British Columbia
 - ⚙️ Dev Director @ nwPlus
 - 🏕️ Previous HackCamp Director @ nwPlus
@@ -21,9 +21,8 @@
 - 📫 Reach out to me at mthteo@gmail.com
 
 ## 📑 Currently learning
-- ☁️ AWS 
 - 🏠 System Design & Architecture
-- 🖥️ CS50w
+- 📶 Data Structures & Algorithms
 
 ## 🔭 Currently building
 ### 🏋️ [liftz](https://liftz-workout-tracker.vercel.app/) 
