@@ -8,21 +8,19 @@
 ## 👋 Hi! I'm Melvin - a student, lifelong learner, and developer!
 
 - 🧠 Passionate about Full-Stack Web Development, Generative AI, and NLP!
-- 👔 **4 x SDE Intern @ Amazon**
-- 📚 Final year Computer Science @ UBC
-- 🔬 Undergraduate Researcher in LLM Mechanistic Interpretability @ UBC
+- 👔 SWE @ Amazon
+- 📚 UBC CS '26
+- 🔬 Prev Undergraduate Researcher @ UBC in NLP
 - ⚙️ Prev Co-President, Director of Software Development, & Hackathon Logistics Director @ nwPlus
 - 📝 Check out my [Resume](https://meleongg.github.io/resume/)!
 - 📫 Reach out to me at mthteo@gmail.com
 
 ## 📑 Currently learning
-- NLP & Mechanistic Interpretability
-- AI Engineering
-- Data Structures & Algorithms
+- NLP & Mechanistic Interpretability (SAEs)
+- System Design
 
 ## 🔭 Currently building
-### [Fitflow](https://fitflow-pi.vercel.app/) 
-FitFlow is a full-stack fitness tracking web app that helps users log workouts, track progress, and visualize performance data through an interactive and responsive interface.
+- TBD
 
 ## &#x1f4c8; GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meleongg&hide=jupyter%20notebook&layout=compact&title_color=FFFFFF&text_color=c9cacc&icon_color=30475E&bg_color=222831)](https://github.com/anuraghazra/github-readme-stats)
