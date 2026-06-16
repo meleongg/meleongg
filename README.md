@@ -1,4 +1,4 @@
-[![Melvin's GitHub Header](./assets/GithubHeader.png)](https://www.melvinteo.com/)
+[<img width="1500" height="500" alt="GithubHeader" src="https://github.com/user-attachments/assets/1c633dc9-4951-457b-93af-a8d17947f2aa" />](https://www.melvinteo.com/)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/meleongg)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/melvinhteo/)
